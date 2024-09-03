@@ -2,7 +2,7 @@
 
 My name is:
 
-Skyler Halfhil
+Skyler Halfhill
 
 My github username is:
 
